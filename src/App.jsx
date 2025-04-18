@@ -119,7 +119,7 @@ function App() {
   return (
     <div style={styles.wrapper}>
       <div style={styles.card}>
-        <h1 style={styles.title}>🎉 Would You Rather?</h1>
+        <h1 style={styles.title}> Would You Rather?</h1>
         <p style={styles.question}>{current.question}</p>
         <div style={styles.options}>
           <button
